@@ -1,2 +1,1 @@
-# JavaScript
-# Self Learning
+# Javascript
