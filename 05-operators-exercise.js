@@ -35,13 +35,37 @@ console.log(module === number2)
 console.log(module != divide)
 
 // 5. Utiliza el operador lógico and
+var isLate = true
+var classToday = true
+if (isLate == false && classToday == true) {
+    console.log("You are on time")
+} else {
+    console.log("You are late")
+}
 
 // 6. Utiliza el operador lógico or
+var lightsOn = false
+var doorOpen = true
+if (lightsOn || doorOpen) {
+    console.log("There people at home")
+} else {
+    console.log("There are nobody home")
+
+}
 
 // 7. Combina ambos operadores lógicos
-
+if (lightsOn || doorOpen && isLate && classToday) {
+    console.log("The professor is in the classroom and you are late")
+} else {
+    console.log("The professor is not in the classroom and you are not late")
+}
 // 8. Añade alguna negación
+if (lightsOn || !doorOpen && isLate && classToday) {
+    console.log("The professor is in the classroom and you are late")
+} else {
+    console.log("The professor is not in the classroom and you are not late")
+}
 
 // 9. Utiliza el operador ternario
-
+?:
 // 10. Combina operadores aritméticos, de comparáción y lógicas
