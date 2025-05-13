@@ -67,5 +67,8 @@ if (lightsOn || !doorOpen && isLate && classToday) {
 }
 
 // 9. Utiliza el operador ternario
-?:
+lightsOn ? console.log("Turn off the lights") : console.log("Turn on the lights")
 // 10. Combina operadores aritméticos, de comparáción y lógicas
+var a = 5
+var b = 10
+var c = 15
