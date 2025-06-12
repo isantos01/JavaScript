@@ -1,0 +1,1014 @@
+[
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "www.desktop.telegram.org",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.desktop.telegram.org"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.desktop.telegram.org"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "satellitefetidtelegraph.com",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "satellitefetidtelegraph.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "satellitefetidtelegraph.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "complementnickel.com",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "complementnickel.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "complementnickel.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "recordedthereby.com",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "recordedthereby.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "recordedthereby.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "wearychallengeraise.com",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.wearychallengeraise.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.wearychallengeraise.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "praystakeinstinct.com",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.praystakeinstinct.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.praystakeinstinct.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "https://www.sejda.com/",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.sejda.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.sejda.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "https://smallpdf.com/",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "smallpdf.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "smallpdf.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "https://updf.com/",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.updf.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.updf.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "DeepL",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.deepl.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.deepl.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "glookockish.com",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.glookockish.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.glookockish.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "ilovepdf",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.ilovepdf.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.ilovepdf.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "test website blocking \\",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.facebook.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.facebook.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Disabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Allow",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "allow guardian",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "subscription.guardian.co.tt"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "subscription.guardian.co.tt"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "yts",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "yts.mx"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "yts.mx"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "game stop",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.gamestop.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.gamestop.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "flixhq.to",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "flixhq.to"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "flixhq.to"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "www.utorrent.com",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.utorrent.com"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.utorrent.com"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "https://web.telegram.org/",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.web.telegram.org"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.web.telegram.org"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "ww.yesmovies.ag",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "ww.yesmovies.ag"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "ww.yesmovies.ag"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "aniwatchtv.to",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "aniwatchtv.to"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "aniwatchtv.to"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "hianime.to",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "hianime.to"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "hianime.to"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [],
+        "application_type": "any",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "www.primewire.tf",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [
+            "www.primewire.tf"
+        ],
+        "remote_host_type": "fqdn",
+        "remote_hosts": [
+            {
+                "type": "fqdn",
+                "values": [
+                    "www.primewire.tf"
+                ]
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [
+            "C:\\Program Files\\NordVPN"
+        ],
+        "application_type": "path",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "test 2",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [],
+        "remote_host_type": "any",
+        "remote_hosts": [
+            {
+                "type": "any",
+                "values": []
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Disabled",
+        "tag_ids": [],
+        "tag_names": []
+    },
+    {
+        "action": "Block",
+        "application": [
+            "https://www.utorrent.com/"
+        ],
+        "application_type": "path",
+        "description": null,
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "Torrent block",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [],
+        "remote_host_type": "any",
+        "remote_hosts": [
+            {
+                "type": "any",
+                "values": []
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Disabled",
+        "tag_ids": [
+            1943694944489254745
+        ],
+        "tag_names": [
+            "utorrent"
+        ]
+    },
+    {
+        "action": "Block",
+        "application": [
+            "C:\\Program Files (x86)\\Nitro PDF\\PrimoPDF.exe"
+        ],
+        "application_type": "path",
+        "description": "TEST",
+        "direction": "any",
+        "local_host": [],
+        "local_host_type": "any",
+        "local_port": [],
+        "local_port_type": "any",
+        "location_ids": [],
+        "location_type": "all",
+        "name": "TEST",
+        "os_types": [
+            "windows"
+        ],
+        "profile": "any",
+        "protocol": null,
+        "remote_host": [],
+        "remote_host_type": "any",
+        "remote_hosts": [
+            {
+                "type": "any",
+                "values": []
+            }
+        ],
+        "remote_port": [],
+        "remote_port_type": "any",
+        "rule_type": "custom",
+        "scope": "site",
+        "service": null,
+        "status": "Enabled",
+        "tag_ids": [],
+        "tag_names": []
+    }
+]
