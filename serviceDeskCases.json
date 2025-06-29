@@ -1,0 +1,2561 @@
+{
+  "response_status": [
+    {
+      "status_code": 2000,
+      "status": "success"
+    }
+  ],
+  "list_info": {
+    "has_more_rows": true,
+    "start_index": 1,
+    "sort_field": "created_time",
+    "search_fields": {
+      "priority.name": "P1",
+      "status.name": "Open"
+    },
+    "total_count": 89,
+    "filter_by": {
+      "name": "Open_System"
+    },
+    "page": 1,
+    "sort_order": "desc",
+    "get_total_count": "true",
+    "row_count": 20
+  },
+  "requests": [
+    {
+      "requester": {
+        "email_id": "Ismael@hypersync.co.uk",
+        "phone": null,
+        "name": "Ismael De Los Santos",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "6939",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": null,
+        "name": "Default Request",
+        "id": "4"
+      },
+      "short_description": "#DEV #ALERTINGSYSTEM&nbsp;",
+      "created_time": {
+        "display_value": "Jun 13, 2025 02:42 PM",
+        "value": "1749843724086"
+      },
+      "subject": "TESTING",
+      "time_elapsed": null,
+      "is_overdue": false,
+      "technician": {
+        "email_id": "darren.mccabe@hypersync.co.uk",
+        "phone": null,
+        "name": "Darren McCabe",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "4203",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "Ismael@hypersync.co.uk",
+        "phone": null,
+        "name": "Ismael De Los Santos",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "6939",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": {
+        "display_value": "Jun 13, 2025 06:42 PM",
+        "value": "1749858124086"
+      },
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Common Site",
+        "id": "2"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "76502",
+      "account": {
+        "country": {
+          "id": "78"
+        },
+        "inactive": false,
+        "name": "HyperProtect",
+        "id": "1",
+        "ciid": "24"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": null
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear Proman Team,We have observed emerging threat involving the following external&nbsp; IP addresses:172.240.108.76 | 172.240.127.234 | 192.243.59.12 | 192.243.59.13 | 192.243.59.20We kindly request you to validate whether these ext IPs are legitimate and expected within your environment.If they are not recognized or authorized, we recommend blocking them immediately.Please confirm the status of these ext IPs at your earliest convenience, and let us know once action has been taken.Case Link:&amp;nb...",
+      "created_time": {
+        "display_value": "Jun 9, 2025 02:00 AM",
+        "value": "1749452428364"
+      },
+      "subject": "Proman | BDS | ET | 172.240.108.76 | 172.240.127.234 | 192.243.59.12 | 192.243.59.13 | 192.243.59.20",
+      "time_elapsed": null,
+      "is_overdue": true,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": {
+        "display_value": "Jun 9, 2025 06:00 AM",
+        "value": "1749466828364"
+      },
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Proman",
+        "id": "2404"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "75141",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "Proman",
+          "id": "2404"
+        },
+        "name": "Proman Support",
+        "id": "2401"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear Tortuga RC Team,We have observed emerging threat involving the following external&nbsp; IP addresses:15.235.189.145&nbsp; |&nbsp; 15.235.189.157We kindly request you to validate whether these ext IPs are legitimate and expected within your environment.If they are not recognized or authorized, we recommend blocking them immediately.Please confirm the status of these ext IPs at your earliest convenience, and let us know once action has been taken.Case Link:&nbsp; &nbsp;https://soc2.digicelbus...",
+      "created_time": {
+        "display_value": "Jun 6, 2025 01:16 AM",
+        "value": "1749190576158"
+      },
+      "subject": "Tortuga RC | BDS | ET | 15.235.189.145  |  15.235.189.157",
+      "time_elapsed": null,
+      "is_overdue": true,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": {
+        "display_value": "Jun 6, 2025 05:16 AM",
+        "value": "1749204976158"
+      },
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Tortuga RC",
+        "id": "2702"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "74445",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "Tortuga RC",
+          "id": "2702"
+        },
+        "name": "Tortuga RC",
+        "id": "2701"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear Cayman Airways Team, We observed a password spraying alert triggered from host EX01 / EX02&nbsp; targeting 31 user accounts on DC04. The activity included Event ID 4768 failures.Why this may be a false positive:Source is EX01 / EX02, an internal Exchange server.Repeated Kerberos pre-auth failures could result from Outlook clients, legacy apps, or misconfigured services attempting mailbox access.Next Steps for Validation:Confirm if any automation, health check, or mailbox access script is ac...",
+      "created_time": {
+        "display_value": "Jun 5, 2025 05:31 AM",
+        "value": "1749119477360"
+      },
+      "subject": "Cayman Airways | Password Spraying Alert",
+      "time_elapsed": null,
+      "is_overdue": true,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": {
+        "display_value": "Jun 5, 2025 09:31 AM",
+        "value": "1749133877360"
+      },
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Cayman Airways Managed Services",
+        "id": "602"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "74210",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "Cayman Airways Managed Services",
+          "id": "602"
+        },
+        "name": "Managed FW",
+        "id": "601"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "roland.morgan@cub.ag",
+        "phone": null,
+        "name": "roland morgan",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "5405",
+        "department": {
+          "site": {
+            "name": "Caribbean Union Bank",
+            "id": "2701"
+          },
+          "name": "General",
+          "id": "3001"
+        },
+        "account": {
+          "name": "Managed Services",
+          "id": "303"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "601"
+        },
+        "name": "Managed Firewall - Request",
+        "id": "603"
+      },
+      "short_description": "Please urgently block the following IPs.192.243.61.227&nbsp;|&nbsp;192.243.61.225&nbsp;|&nbsp;&nbsp;192.243.59.13&nbsp;|&nbsp;&nbsp;192.243.59.12&nbsp;|&nbsp;&nbsp;172.240.253.132&nbsp;|&nbsp;&nbsp;172.240.127.234&nbsp;|&nbsp;&nbsp;172.240.108.76&nbsp;|&nbsp;&nbsp;172.240.108.84",
+      "created_time": {
+        "display_value": "May 29, 2025 07:06 AM",
+        "value": "1748520396365"
+      },
+      "subject": "Block IPs",
+      "time_elapsed": null,
+      "is_overdue": true,
+      "technician": {
+        "email_id": "jonathan.stewart@hypersync.co.uk",
+        "phone": null,
+        "name": "Jonathan Stewart",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "1269",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "roland.morgan@cub.ag",
+        "phone": null,
+        "name": "roland morgan",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "5405",
+        "department": {
+          "site": {
+            "name": "Caribbean Union Bank",
+            "id": "2701"
+          },
+          "name": "General",
+          "id": "3001"
+        },
+        "account": {
+          "name": "Managed Services",
+          "id": "303"
+        }
+      },
+      "due_by_time": {
+        "display_value": "May 29, 2025 11:06 AM",
+        "value": "1748534796365"
+      },
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Caribbean Union Bank",
+        "id": "2701"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "73127",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": null
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear CUB&nbsp; Team,We have observed emerging threat involving the following external domain &amp; IP addresses:192.243.61.227 | 192.243.61.225 |&nbsp; 192.243.59.13 |&nbsp; 192.243.59.12 |&nbsp; 172.240.253.132 |&nbsp; 172.240.127.234 |&nbsp; 172.240.108.76 |&nbsp; 172.240.108.84We kindly request you to validate whether these domains &amp; IPs are legitimate and expected within your environment.If they are not recognized or authorized, we recommend blocking them immediately.Please confirm the s...",
+      "created_time": {
+        "display_value": "May 29, 2025 02:17 AM",
+        "value": "1748503079956"
+      },
+      "subject": "CUB | BDS | ET |  complementnickel.com |  192.243.61.227 | 192.243.61.225 |  192.243.59.13 |  192.243.59.12 |  172.240.253.132 |  172.240.127.234 |  172.240.108.76 |  172.240.108.84",
+      "time_elapsed": null,
+      "is_overdue": true,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": {
+        "display_value": "May 29, 2025 06:17 AM",
+        "value": "1748517479956"
+      },
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Caribbean Union Bank",
+        "id": "2701"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "73114",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "Caribbean Union Bank",
+          "id": "2701"
+        },
+        "name": "Caribbean Union Bank",
+        "id": "2702"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear KW Team, We have observed emerging threat involving the following external IP addresses:192.243.59.2015.235.189.152172.240.108.84We kindly request you to validate whether these IPs are legitimate and expected within your environment.If they are not recognized or authorized, we recommend blocking them immediately.Please confirm the status of these IPs at your earliest convenience, and let us know once action has been taken.Case Link: https://soc2.digicelbusinessprotect.com/cases/case-detail/...",
+      "created_time": {
+        "display_value": "May 22, 2025 02:29 AM",
+        "value": "1747898975526"
+      },
+      "subject": "KW | BDS | ET  | 192.243.59.20  15.235.189.152  172.240.108.84",
+      "time_elapsed": null,
+      "is_overdue": false,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": null,
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Kingston Wharves",
+        "id": "3606"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "72080",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "Kingston Wharves",
+          "id": "3606"
+        },
+        "name": "Kingston Wharves Support Group",
+        "id": "3601"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "support@hypersync.co.uk",
+        "phone": null,
+        "name": "Support",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3905",
+        "department": {
+          "site": {
+            "name": "SM-JALEEL Managed Firewall",
+            "id": "901"
+          },
+          "name": "General",
+          "id": "1201"
+        },
+        "account": {
+          "name": "Managed Services",
+          "id": "303"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": null,
+        "name": "Default Request",
+        "id": "4"
+      },
+      "short_description": "Hi Anand,  Thanks for reaching out to us for support.  Note that the subnets stated below were not part of the VPN tunnel to azure. Therefore, I have included them.  Please test and let me know if it is now functional.     Jonathan Stewart    Network Security Engineer    HyperProtect|hyperprotect.co.uk    Category :  Description :          ----- Anand Ramsumairsingh : anand.ramsumairsingh@smjaleel.com On May 15, 2025 11:23:49 -0500 -----                                           ...",
+      "created_time": {
+        "display_value": "May 15, 2025 02:59 PM",
+        "value": "1747339154208"
+      },
+      "subject": "Re: [Request ID :!!RE-71062!!] : from s2s azure site we are unable to access printers in otaheite",
+      "time_elapsed": null,
+      "is_overdue": true,
+      "technician": {
+        "email_id": "jonathan.stewart@hypersync.co.uk",
+        "phone": null,
+        "name": "Jonathan Stewart",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "1269",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": null,
+        "phone": null,
+        "name": "System",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "RESIGNED",
+        "id": "1",
+        "department": null
+      },
+      "due_by_time": {
+        "display_value": "May 15, 2025 06:59 PM",
+        "value": "1747353554208"
+      },
+      "response_time_elapsed": null,
+      "site": {
+        "name": "SM-JALEEL Managed Firewall",
+        "id": "901"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "71117",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": null
+    },
+    {
+      "requester": {
+        "email_id": "anand.ramsumairsingh@smjaleel.com",
+        "phone": null,
+        "name": "Anand Ramsumairsingh",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "5413",
+        "department": {
+          "site": {
+            "name": "SM-JALEEL Managed Firewall",
+            "id": "901"
+          },
+          "name": "General",
+          "id": "1201"
+        },
+        "account": {
+          "name": "Managed Services",
+          "id": "303"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": null,
+        "name": "Default Request",
+        "id": "4"
+      },
+      "short_description": "Good Day,\n           \n         \n           \n            &nbsp;\n           \n         We are told this it now not connecting when this worked previously.\n           \n         \n           \n            &nbsp;\n           \n         From the azure site, specifically ip address 10.100.0.120, we require to access/add printers that are in Otaheite on the following networks:\n           \n         \n           \n ...",
+      "created_time": {
+        "display_value": "May 15, 2025 11:23 AM",
+        "value": "1747326229995"
+      },
+      "subject": "from s2s azure site we are unable to access printers in otaheite",
+      "time_elapsed": null,
+      "is_overdue": true,
+      "technician": {
+        "email_id": "jonathan.stewart@hypersync.co.uk",
+        "phone": null,
+        "name": "Jonathan Stewart",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "1269",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": null,
+        "phone": null,
+        "name": "System",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "RESIGNED",
+        "id": "1",
+        "department": null
+      },
+      "due_by_time": {
+        "display_value": "May 15, 2025 03:23 PM",
+        "value": "1747340629995"
+      },
+      "response_time_elapsed": null,
+      "site": {
+        "name": "SM-JALEEL Managed Firewall",
+        "id": "901"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "71062",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "SM-JALEEL Managed Firewall",
+          "id": "901"
+        },
+        "name": "JALEEL FW-MGMT",
+        "id": "901"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear Staatsolie Team, We have observed multiple Internal Suspected Malicious User Agent alerts and corresponding cases in BDS.Initial analysis indicates these may be linked to an internal scan, as the alerts show the IP address of your internal Nessus scanner.Kindly confirm if an internal vulnerability scan is currently in progress, and validate the scanner activity to rule out any anomaly.https://soc2.digicelbusinessprotect.com/cases/case-detail/6824c6a104cb0d3273b73b3ehttps://soc2.digicelbusin...",
+      "created_time": {
+        "display_value": "May 15, 2025 02:41 AM",
+        "value": "1747294910371"
+      },
+      "subject": "BDS | Staatsolie | Validation Required | Internal Suspected Malicious User Agent Alerts Observed",
+      "time_elapsed": null,
+      "is_overdue": false,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": null,
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Staatsolie",
+        "id": "3903"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "70916",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "Staatsolie",
+          "id": "3903"
+        },
+        "name": "Staatsolie Support Group",
+        "id": "3903"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear Indigo Insurance Team, We have observed activity linked to emerging threats involving your internal asset TELETRxx2 (10.0.145.x). Please find the related case details below:Case 1509Case link: https://soc2.digicelbusinessprotect.com/cases/case-detail/681f5b088e913baa88e7579fExternal IPs: 174.240.209.101, 192.30.89.67, 46.246.3.239Case 1508Case link: https://soc2.digicelbusinessprotect.com/cases/case-detail/681f59648e913baa88e75799External IPs: 46.246.3.239, 185.195.232.153Case 1493Case link...",
+      "created_time": {
+        "display_value": "May 12, 2025 06:36 AM",
+        "value": "1747049773028"
+      },
+      "subject": "BDS | Indigo Insurance  | Emerging Threats | Confirmation Required – Asset Role and External IP Validation",
+      "time_elapsed": null,
+      "is_overdue": false,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": null,
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Indigo",
+        "id": "3902"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "70123",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "id": "3902"
+        },
+        "name": "Indigo Support Group",
+        "id": "3902"
+      }
+    },
+    {
+      "requester": {
+        "email_id": null,
+        "phone": null,
+        "name": "Stellar Case",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "6945",
+        "department": {
+          "site": {
+            "name": "Stellar Cases",
+            "id": "3906"
+          },
+          "name": "General",
+          "id": "4206"
+        },
+        "account": {
+          "name": "Managed Services",
+          "id": "303"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "1501"
+        },
+        "name": "Stellar Cases",
+        "id": "1502"
+      },
+      "short_description": "View in StellarObserved 2 XDR Kill Chain Stages: Initial Attempts, Exfiltration &amp; ImpactInvolved 9 hosts: KWLPAYROLL007, kwljm.net, iPhone, 10.250.7.73, android-23dfe35e538f8bd6, iPhone, iPhone, iPhone, iPhoneInvolved 2 users: Garfieldp, KingstonWharvesWS",
+      "created_time": {
+        "display_value": "Apr 30, 2025 07:00 PM",
+        "value": "1746057651567"
+      },
+      "subject": "39022: DNS Tunneling Anomaly and 11 others",
+      "time_elapsed": null,
+      "is_overdue": true,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "daniel.murtagh@hypersync.co.uk",
+        "phone": null,
+        "name": "Daniel Murtagh",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "304",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": {
+        "display_value": "Apr 30, 2025 11:00 PM",
+        "value": "1746072051567"
+      },
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Stellar Cases",
+        "id": "3906"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "61292",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": null
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "MDM and Security - Sentinel1",
+        "id": "903"
+      },
+      "short_description": "Hi Grace Bay Resorts Team, During our routine monitoring we observed possible threat&nbsp;wps_lid.lid-u8BiBHa1M2MG.exe&nbsp; on Endpoint 10.114.114.X. Those are reported as suspicious at VT.We have taken immediate action by killing and quarantining the suspicious exe&#39;s.Below are the links to threat and VT.https://www.virustotal.com/gui/file/b559323b7b20c46103a6c00be5a717aba678a5960139065d431c9429ca556bf9 https://usea1-pax8-03.sentinelone.net/incidents/threats/2199735891516538865/overviewWe w...",
+      "created_time": {
+        "display_value": "Apr 24, 2025 03:34 AM",
+        "value": "1745483646245"
+      },
+      "subject": "S1 | Grace Bay Resorts | wps_lid.lid-u8BiBHa1M2MG.exe",
+      "time_elapsed": null,
+      "is_overdue": false,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": null,
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Grace Bay Resort",
+        "id": "3002"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "60087",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "id": "3002"
+        },
+        "name": "Grace Bay Resort S1 Groups",
+        "id": "3002"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear Staatsolie Team, We have observed an unusually high number of failed login attempts (22) from the internal IP address 10.36.6.253 within a 5-minute.The activity involved multiple unknown usernames such as Chey, RRamlal, VJankie, SWorosono, GMussendijk, EValencia, VKewaldar, HDjoehri, SAmatmohamed, CHuang, JBaidjnathPanday, SEssed, JVorm, JBracelly, Treatment, Guard, GLie, SLie, GE15tp, SP-Conference, TLF-Classroom, TLF-Computer.Please validate.If there any authorized activity (e.g., schedul...",
+      "created_time": {
+        "display_value": "Apr 18, 2025 03:31 AM",
+        "value": "1744965115478"
+      },
+      "subject": "BDS | Staatsolie | Validation Request| Failed Login Attempts from 10.36.6.X",
+      "time_elapsed": null,
+      "is_overdue": false,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": null,
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Staatsolie",
+        "id": "3903"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "59241",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "Staatsolie",
+          "id": "3903"
+        },
+        "name": "Staatsolie Support Group",
+        "id": "3903"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear Staatsolie Team, We have detected suspicious outbound communication from internal host 10.36.0.X (user: SWongsoredjo) to a known Command &amp; Control server 199.59.243.228 (domain: 77980.bodis.com), which is currently categorized as SpywareCnC by ETPro.Details:Event Type: C2 Communication (SSL over TCP/443)Connections: 27 within a 5-minute window (anomalous spike)Reputation Source: ETProDestination IP ASN: AS16509 (Amazon-02)Domain Info: bodis.com – typically used for domain parking/moneti...",
+      "created_time": {
+        "display_value": "Apr 16, 2025 04:08 AM",
+        "value": "1744794536815"
+      },
+      "subject": "BDS | Staatsolie | Suspicious Outbound Communication to Known C2 Server |  Potential False Positive",
+      "time_elapsed": null,
+      "is_overdue": false,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": null,
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Staatsolie",
+        "id": "3903"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "58500",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "Staatsolie",
+          "id": "3903"
+        },
+        "name": "Staatsolie Support Group",
+        "id": "3903"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "danyermartinez@caymanairways.net",
+        "phone": null,
+        "name": "Danyer Martinez",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "5414",
+        "department": {
+          "site": {
+            "name": "Cayman Airways Managed Services",
+            "id": "602"
+          },
+          "name": "General",
+          "id": "902"
+        },
+        "account": {
+          "name": "Managed Services",
+          "id": "303"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": null,
+        "name": "Default Request",
+        "id": "4"
+      },
+      "short_description": "Hi Jonathan,                   &nbsp;        CISA has released a new advisory regarding a post-exploitation technique targeting known Fortinet vulnerabilities—and it looks like we’re affected by this. (See email below)                   &nbsp;                                                                                             Regards,  Danyer Martinez&nbsp;&nbsp;                                                                  Network Administrator&nbsp;                 ...",
+      "created_time": {
+        "display_value": "Apr 11, 2025 10:57 AM",
+        "value": "1744387051289"
+      },
+      "subject": "Urgent: Fortinet Advisory Released by CISA",
+      "time_elapsed": null,
+      "is_overdue": true,
+      "technician": {
+        "email_id": "jonathan.stewart@hypersync.co.uk",
+        "phone": null,
+        "name": "Jonathan Stewart",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "1269",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": null,
+        "phone": null,
+        "name": "System",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "RESIGNED",
+        "id": "1",
+        "department": null
+      },
+      "due_by_time": {
+        "display_value": "Apr 11, 2025 02:57 PM",
+        "value": "1744401451289"
+      },
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Cayman Airways Managed Services",
+        "id": "602"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "57355",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": null
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear Staatsolie Team, Soc Team observed a port scan originating from the host 10.36.6.X targeting 10.10.10.X on TCP port 445.Source IP/Host: 10.36.6.XDestination IP/Host: 10.10.10.XApplication/Port: TCP 445Attempts: 1844Successful Connections: 0Failure Rate: 100%The high number of failed connection attempts indicates scanning behavior. We recommend reviewing the source host for any suspicious activity or unauthorized scanning tools.https://soc2.digicelbusinessprotect.com/cases/case-detail/67f7ad...",
+      "created_time": {
+        "display_value": "Apr 11, 2025 01:46 AM",
+        "value": "1744353982495"
+      },
+      "subject": "Staatsolie | BDS | Port Scan Activity | From 10.36.X.X to 10.10.X.X",
+      "time_elapsed": null,
+      "is_overdue": false,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": null,
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Staatsolie",
+        "id": "3903"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "57235",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "Staatsolie",
+          "id": "3903"
+        },
+        "name": "Staatsolie Support Group",
+        "id": "3903"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear&nbsp;Staatsolie TEam,We detected an impossible travel anomaly for ict-ppdev-102@staatsolie.com, with logins from External IP&#39;s45.129.35.246, 190.98.36.85Service: Office 365Please confirm if this activity is expected.https://soc2.digicelbusinessprotect.com/cases/case-detail/67ec1f562f42d1eae4cb496bRegards,SOC SupportEmail: &nbsp;socsupport@hyperprotect.co.uk HyperSync|http://www.hypersync.co.uk&nbsp;&nbsp;",
+      "created_time": {
+        "display_value": "Apr 3, 2025 05:05 AM",
+        "value": "1743674716718"
+      },
+      "subject": "Staatsolie | Impossible Travel Detected | BDS | 45.129.35.246, 190.98.36.85",
+      "time_elapsed": null,
+      "is_overdue": false,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": null,
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Staatsolie",
+        "id": "3903"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "55579",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "Staatsolie",
+          "id": "3903"
+        },
+        "name": "Staatsolie Support Group",
+        "id": "3903"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "MDM and Security - Sentinel1",
+        "id": "903"
+      },
+      "short_description": "Dear Grace Bay Resorts Team,A potential threat was detected during our routine monitoring.Sentinel One discovered the following details regarding the threat:Classification: Ransomware (wps_lid.lid-u8GMVkFhK38Y.exe)https://www.virustotal.com/gui/file/67c43b290a9c13a487b2fac3354637b9659f02514ab3b4ea147e17dd43dfd2e2https://usea1-pax8-03.sentinelone.net/incidents/threats/2179287380536048732/overviewWe have taken immediate action by quarantining and killing the Unwanted File.We wanted to seek your gu...",
+      "created_time": {
+        "display_value": "Mar 27, 2025 03:10 AM",
+        "value": "1743063056516"
+      },
+      "subject": "Grace Bay | S1 | Ransomware | wps_lid.lid-u8GMVkFhK38Y.exe",
+      "time_elapsed": null,
+      "is_overdue": false,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": null,
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Grace Bay Resort",
+        "id": "3002"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "54386",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "id": "3002"
+        },
+        "name": "Grace Bay Resort S1 Groups",
+        "id": "3002"
+      }
+    },
+    {
+      "requester": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "template": {
+        "is_service_template": false,
+        "service_category": {
+          "id": "603"
+        },
+        "name": "Breach Detection Service",
+        "id": "901"
+      },
+      "short_description": "Dear CUB Team,&nbsp;We observed an alert regarding the ext IP addresses 172.240.127.234, 192.243.59.13, 192.243.61.227, 172.240.253.132, 192.243.59.20 (reported on VT), on the Stellar.&nbsp;We kindly ask you to validate the legitimacy of these ext IP address(reported on VT. If it is confirmed as a threat, please take immediate action to block it.Case:&nbsp;https://soc.digicelbusinessprotect.com/cases/case-detail/67e38a061b2c73172c663e1b&nbsp;&nbsp;Regards,&nbsp;SOC SupportEmail: &nbsp;socsupport...",
+      "created_time": {
+        "display_value": "Mar 26, 2025 12:55 AM",
+        "value": "1742968502827"
+      },
+      "subject": "CUB | BDS | Emerging Threat",
+      "time_elapsed": null,
+      "is_overdue": true,
+      "technician": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "is_billable": true,
+      "priority": {
+        "color": "#ff0000",
+        "name": "P1",
+        "id": "4"
+      },
+      "created_by": {
+        "email_id": "raheel.rais@hypersync.co.uk",
+        "phone": null,
+        "name": "Raheel Rais",
+        "mobile": null,
+        "profile_pic": {
+          "content-url": "/images/default-profile-pic2.svg"
+        },
+        "is_vipuser": false,
+        "org_user_status": "ACTIVE",
+        "id": "3903",
+        "department": {
+          "site": {
+            "name": "Common Site",
+            "id": "2"
+          },
+          "name": "General",
+          "id": "6"
+        },
+        "account": {
+          "name": "HyperProtect",
+          "id": "1"
+        }
+      },
+      "due_by_time": {
+        "display_value": "Mar 26, 2025 04:55 AM",
+        "value": "1742982902827"
+      },
+      "response_time_elapsed": null,
+      "site": {
+        "name": "Caribbean Union Bank",
+        "id": "2701"
+      },
+      "is_service_request": false,
+      "cancel_requested_is_pending": false,
+      "accountcontract": null,
+      "cancel_requested": false,
+      "id": "54227",
+      "account": {
+        "country": {
+          "id": "234"
+        },
+        "inactive": false,
+        "name": "Managed Services",
+        "id": "303",
+        "ciid": "303"
+      },
+      "status": {
+        "color": "#0066ff",
+        "name": "Open",
+        "id": "1"
+      },
+      "group": {
+        "site": {
+          "name": "Caribbean Union Bank",
+          "id": "2701"
+        },
+        "name": "Caribbean Union Bank",
+        "id": "2702"
+      }
+    }
+  ]
+}
